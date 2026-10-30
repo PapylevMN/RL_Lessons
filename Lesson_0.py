@@ -12,3 +12,4 @@ env = gym.make('CartPole-v1')
 state = env.reset()
 
 print(state)
+print(x)
